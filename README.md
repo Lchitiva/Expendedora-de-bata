@@ -95,6 +95,10 @@ Asegurar el préstamo de batas automatizado a los estudiantes de la Universidad 
 
 
 # Diagramas de caja negra
+
+>## Diagrama de caja negra general
+
+
 # Diagrama de flujo
 # Máquina de estados
 
