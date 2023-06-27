@@ -1,2 +1,15 @@
 # Expendedora-de-bata
-Proyecto final de electrónica digital haciendo uso de una FPGA y sus respectivos periféricos en Quartus
+
+
+#Imagen del proyecto
+#Integrantes
+#Descripción
+#Alcance y problemática
+#Diagramas de caja negra
+#Diagrama de flujo
+#Máquina de estados
+#Simulaciones
+#Implementación
+#Video del proyecto
+#Conclusiones
+#Referencias
