@@ -97,7 +97,8 @@ Asegurar el préstamo de batas automatizado a los estudiantes de la Universidad 
 # Diagramas de caja negra
 
 >## Diagrama de caja negra general
-
+>Como se puede ver en la siguiente imagen, el sistema consta de dos entradas y dos salidas, la entrada RFID detecta si hay un carnet de la universidad presente o no, lo mismo con el sensor de proximidad que detecta si hay una bata en la máquina o no. El motor, es una salida que mueve una puerta que bloquea o habilita el espacio donde se encuentran la bata y el carnet. Las luces LED indican los diferentes estados en donde se encuentra la máquina, y hacen ver al usuario lo que debe realizar.
+![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Diagrama%20de%20caja%20negra.png)
 
 # Diagrama de flujo
 # Máquina de estados
