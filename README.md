@@ -109,19 +109,19 @@ Asegurar el préstamo de batas automatizado a los estudiantes de la Universidad 
 >Se utilizó el diagrama de estados que se ve acontinuación, donde se pueden evidenciar cuatro estados, el primero consiste en el estado inicial del proyecto 'S0', el cual espera a que le llegue un uno lógico tanto en el sensor que mira si hay un carnet, como en el sensor que detecta si hay una bata. El estado que le sigue 'S1', se refiere a que el sistema abre el espacio de la bata y la deja disponible para el estudiante. Por su parte 'S2', es el estado en el cual el estudiante ya ha sacado la bata del sistema, este estado espera que el estudiante vuelva a colocar la bata en su sitio para pasar al siguiente estado. Por último, 'S3' es el estado en el que ya se ha devuelto la bata y se debe retirar el carnet para volver al estado inicial.
 
 ![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Diagrama%20de%20estados.jpg)
-# Construcción del proyec
+# Construcción del proyecto en VHDL
 
 Para iniciar con el proyecto, lo fundamental son los flip flops que se iban a usar, puesto que son imprescindibles en la lógica secuencial. Se escogió usar flip flops tipo D debido a su sencillez y también porque en términos de hardware, tiene menos que uno tipo JK. Se modeló el Flip Flop en el lenguaje VHDL en la herramienta Quartus con las siguientes líneas de código:to en VHDL.
 
-![]()
+![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/C%C3%B3digo%20FFD.png)
 
 Donde clk es el reloj, d es la entrada del Flip Flop y q es la salida, la vista del Flip Flop se ve de la siguiente forma mediante el software Quartus:
 
-![]()
+![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Esquema%20del%20FF.png)
 
 Se realizó la simulación del Flip Flop en la herramienta ModelSim-Altera, en donde se configuró una señal de reloj con periodo de 100ns y un ciclo de trabajo del 50%, además se configuró otra señal de reloj con periodo de 200ns y un ciclo de trabajo del 50%, todo lo anterior para poder visualizar la respuesta del Flip Flop que se programó, obteniendo lo siguiente:
 
-![]()
+![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Simulaci%C3%B3n%20del%20FF.png)
 
 En donde se ve claramente que cuando hay un flanco de subida del reloj, la salida ‘q’ del Flip Flop se configura al valor que tiene la entrada ‘d’, por lo cual se concluye que se tiene un Flip Flop tipo D funcional, el cuál será la base para el proyecto.
 
