@@ -3,6 +3,11 @@
 
 # Imagen del proyecto
 # Integrantes
+
+*Luis Fernando Chitiva Arévalo
+*Cristian Santiago Angulo Pedreros
+*Iván Alejandro Giraldo Blanco
+
 # Descripción
 # Alcance y problemática
 # Diagramas de caja negra
