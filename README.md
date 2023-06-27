@@ -2,6 +2,11 @@
 
 
 # Imagen del proyecto
+
+![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Imagen%20del%20proyecto%201.jpeg)
+
+![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Imagen%20del%20proyecto%202.jpeg)
+
 # Integrantes
 
 - Luis Fernando Chitiva Arévalo
