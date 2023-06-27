@@ -101,6 +101,9 @@ Asegurar el préstamo de batas automatizado a los estudiantes de la Universidad 
 ![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Diagrama%20de%20caja%20negra.png)
 
 # Diagrama de flujo
+
+![]()
+
 # Máquina de estados
 
 >Se utilizó el diagrama de estados que se ve acontinuación, donde se pueden evidenciar cuatro estados, el primero consiste en el estado inicial del proyecto 'S0', el cual espera a que le llegue un uno lógico tanto en el sensor que mira si hay un carnet, como en el sensor que detecta si hay una bata. El estado que le sigue 'S1', se refiere a que el sistema abre el espacio de la bata y la deja disponible para el estudiante. Por su parte 'S2', es el estado en el cual el estudiante ya ha sacado la bata del sistema, este estado espera que el estudiante vuelva a colocar la bata en su sitio para pasar al siguiente estado. Por último, 'S3' es el estado en el que ya se ha devuelto la bata y se debe retirar el carnet para volver al estado inicial.
