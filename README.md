@@ -136,6 +136,22 @@ En donde se ve claramente que cuando hay un flanco de subida del reloj, la salid
 
 
 
+https://github.com/Lchitiva/Expendedora-de-bata/assets/72529907/972d70e9-fe9e-4944-89ea-281d311c9334
+
+
+
+https://github.com/Lchitiva/Expendedora-de-bata/assets/72529907/0f737be2-ebba-4bec-a8e6-c1704b003ec5
+
+
+
+https://github.com/Lchitiva/Expendedora-de-bata/assets/72529907/86ea48fb-9c03-413e-a8f4-9b8d52bf7447
+
+
+
+
+https://github.com/Lchitiva/Expendedora-de-bata/assets/72529907/17238714-9634-4dbe-a2c1-7128c99d7f1b
+
+
 # Video de funcionamiento del proyecto
 
 
