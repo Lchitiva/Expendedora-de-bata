@@ -131,7 +131,13 @@ Se realizó la simulación del Flip Flop en la herramienta ModelSim-Altera, en d
 En donde se ve claramente que cuando hay un flanco de subida del reloj, la salida ‘q’ del Flip Flop se configura al valor que tiene la entrada ‘d’, por lo cual se concluye que se tiene un Flip Flop tipo D funcional, el cuál será la base para el proyecto.
 
 
-# Implementación
-# Video del proyecto
+
+# Avances del proyecto
+
+
+
+# Video de funcionamiento del proyecto
+
+
 # Conclusiones
 # Referencias
