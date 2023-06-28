@@ -117,11 +117,12 @@ Asegurar el préstamo de batas automatizado a los estudiantes de la Universidad 
 # Simulaciones
 
 >Simulación principal de cuando se ingresa el carnet
-![]()
+![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Simulacion%20carnet.jpg)
 >Simulación de cuando se saca la bata
-![]()
+![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Simulaci%C3%B3n%20retiro%20de%20bata.jpg)
 >Simulación de cuando se devuelve la bata y se retira el carnet
-![]()
+![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Simulaci%C3%B3n%20bata.jpg
+)
 Para iniciar con el proyecto, lo fundamental son los flip flops que se iban a usar, puesto que son imprescindibles en la lógica secuencial. Se escogió usar flip flops tipo D debido a su sencillez y también porque en términos de hardware, tiene menos que uno tipo JK. Se modeló el Flip Flop en el lenguaje VHDL en la herramienta Quartus con las siguientes líneas de código:to en VHDL.
 
 ![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/C%C3%B3digo%20FFD.png)
@@ -159,7 +160,8 @@ https://github.com/Lchitiva/Expendedora-de-bata/assets/72529907/17238714-9634-4d
 
 
 # Video de funcionamiento del proyecto
+https://youtu.be/3SFQCzfdZ2Y
 
 
-# Conclusiones
-# Referencias
+https://github.com/Lchitiva/Expendedora-de-bata/assets/72529907/09ccca57-2117-4304-9836-b9b1f53f1115
+
