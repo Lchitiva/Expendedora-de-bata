@@ -114,8 +114,14 @@ Asegurar el préstamo de batas automatizado a los estudiantes de la Universidad 
 >Se utilizó el diagrama de estados que se ve acontinuación, donde se pueden evidenciar cuatro estados, el primero consiste en el estado inicial del proyecto 'S0', el cual espera a que le llegue un uno lógico tanto en el sensor que mira si hay un carnet, como en el sensor que detecta si hay una bata. El estado que le sigue 'S1', se refiere a que el sistema abre el espacio de la bata y la deja disponible para el estudiante. Por su parte 'S2', es el estado en el cual el estudiante ya ha sacado la bata del sistema, este estado espera que el estudiante vuelva a colocar la bata en su sitio para pasar al siguiente estado. Por último, 'S3' es el estado en el que ya se ha devuelto la bata y se debe retirar el carnet para volver al estado inicial.
 
 ![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/Diagrama%20de%20estados.jpg)
-# Construcción del proyecto en VHDL
+# Simulaciones
 
+>Simulación principal de cuando se ingresa el carnet
+![]()
+>Simulación de cuando se saca la bata
+![]()
+>Simulación de cuando se devuelve la bata y se retira el carnet
+![]()
 Para iniciar con el proyecto, lo fundamental son los flip flops que se iban a usar, puesto que son imprescindibles en la lógica secuencial. Se escogió usar flip flops tipo D debido a su sencillez y también porque en términos de hardware, tiene menos que uno tipo JK. Se modeló el Flip Flop en el lenguaje VHDL en la herramienta Quartus con las siguientes líneas de código:to en VHDL.
 
 ![](https://github.com/Lchitiva/Expendedora-de-bata/blob/main/images/C%C3%B3digo%20FFD.png)
